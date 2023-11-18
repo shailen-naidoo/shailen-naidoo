@@ -1,16 +1,27 @@
-### Hi there 👋
+### Aspiring Legal Professional with a Passion for Technology
 
-<!--
-**shailen-naidoo/shailen-naidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a highly motivated and results-oriented JavaScript Developer with a strong interest in pursuing a career in law. Combining my technical expertise with my passion for legal principles and advocacy, I am eager to make a meaningful impact in the legal field.
 
-Here are some ideas to get you started:
+### Technical Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Proficient in JavaScript.
+* Experience in developing and maintaining web applications.
+* Strong understanding of software design principles and best practices.
+* Ability to work independently and as part of a team.
+
+### Legal Aspirations
+
+* Motivated to pursue a professorship in law.
+* Passionate about intellectual property law, technology law, cybersecurity law, consumer law, labour law, property law, civil law and criminal law.
+* Eager to contribute to the legal community and protect the rights of individuals and businesses.
+* Strong interpersonal and communication skills, with the ability to clearly articulate complex legal concepts
+
+### Seeking Opportunities
+
+I am actively seeking opportunities to connect with legal professionals, explore potential internships or shadowing experiences, and gain insights into the legal profession. I am also interested in networking with JavaScript Developers who have transitioned into law to learn from their experiences.
+
+### Contact Me
+
+I am eager to connect with individuals who can provide guidance and support as I navigate this career transition. Please feel free to connect with me on LinkedIn or email me at naidooshailen648@gmail.com.
+
+Thank you for your time and consideration.
