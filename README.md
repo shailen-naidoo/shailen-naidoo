@@ -22,6 +22,6 @@ I am actively seeking opportunities to connect with legal professionals, explore
 
 ### Contact Me
 
-I am eager to connect with individuals who can provide guidance and support as I navigate this career transition. Please feel free to connect with me on LinkedIn or email me at naidooshailen648@gmail.com.
+I am eager to connect with individuals who can provide guidance and support as I navigate this career transition. Please feel free to connect with me on LinkedIn or email me at naidooshailen648@gmail.com, do not be a afraid to share any issues that you may have with me, I am more than happy to address any of your concerns.
 
 Thank you for your time and consideration.
