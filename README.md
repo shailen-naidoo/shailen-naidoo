@@ -21,7 +21,7 @@ I am a highly motivated and results-oriented JavaScript Developer with a strong 
   * Property law
   * Civil law
   * Criminal law.
-* Eager to contribute to the legal community and protect the rights of individuals and businesses.
+* Eager to contribute to the legal community and protect the rights of individuals and businesses through projects such as [lawforidiots.org](https://lawforidiots.org)
 * Strong interpersonal and communication skills, with the ability to clearly articulate complex legal concepts
 
 ### Seeking Opportunities
