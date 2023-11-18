@@ -12,7 +12,15 @@ I am a highly motivated and results-oriented JavaScript Developer with a strong 
 ### Legal Aspirations
 
 * Motivated to pursue a professorship in law.
-* Passionate about intellectual property law, technology law, cybersecurity law, consumer law, labour law, property law, civil law and criminal law.
+* Passionate about
+  * Intellectual property law
+  * Technology law
+  * Cybersecurity law
+  * Consumer law
+  * Labour law
+  * Property law
+  * Civil law
+  * Criminal law.
 * Eager to contribute to the legal community and protect the rights of individuals and businesses.
 * Strong interpersonal and communication skills, with the ability to clearly articulate complex legal concepts
 
