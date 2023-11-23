@@ -39,3 +39,18 @@ I am a huge lover of music, I have been playing the guitar for over 10+ years no
 <a href="https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1?si=d7cace0d79a84560" target="_blank">
  <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/5647769e-4f33-437e-942e-59b0eec1da91" height="100px" width="100px" />
 </a>
+<a href="https://open.spotify.com/track/4zoQ3EqopTIGmK2c2rPV5t?si=291b4cda9c384037" target="_blank">
+ <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/f2c5fe17-5984-45bf-ae4c-303b90b48448" height="100px" width="100px" />
+<a/>
+<a href="https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe?si=76f86511e1eb4c65" target="_blank">
+ <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/518515f9-8432-475b-89d2-229ec3ef5c07" height="100px" width="100px" />
+</a>
+<a href="https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh?si=1a0f06936c4c40e3" target="_blank">
+ <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/dd72a195-e401-4ef6-9c69-741fd6a409be" height="100px" width="100px" />
+</a>
+<a href="https://open.spotify.com/track/1JdFSVTGl0gDJJVUTBvauR?si=42551bcb61674be0" target="_blank">
+ <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/269bc069-0c1e-443a-8084-3ed536a28450" height="100px" width="100px" />
+</a>
+<a href="https://open.spotify.com/track/5gFoAVTN9YlM9uJCrFZtgl?si=75af2de6c0064f56" target="_blank">
+ <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/ea5c7e82-f264-468c-993b-52d106173fdf" height="100px" width="100px" />
+</a>
