@@ -30,6 +30,12 @@ I am actively seeking opportunities to connect with legal professionals, explore
 
 ### Contact Me
 
-I am eager to connect with individuals who can provide guidance and support as I navigate this career transition. Please feel free to connect with me on LinkedIn or email me at naidooshailen648@gmail.com, do not be a afraid to share any issues that you may have with me, I am more than happy to address any of your concerns.
+I am eager to connect with individuals who can provide guidance and support as I navigate this career transition. Please feel free to connect with me on LinkedIn or email me at naidooshailen648@gmail.com, do not be afraid to share any issues that you may have with me, I am more than happy to address any of your concerns.
 
-Thank you for your time and consideration.
+### Personal side of me
+
+I am a huge lover of music, I have been playing the guitar for over 10+ years now in a personal and semi-professional capacity. I love blues guitar the most but I have a tendency to explore many genres. Here are some of my favourite albums:
+
+<a href="https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1?si=d7cace0d79a84560" target="_blank">
+ <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/5647769e-4f33-437e-942e-59b0eec1da91" height="100px" width="100px" />
+</a>
