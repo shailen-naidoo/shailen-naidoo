@@ -73,7 +73,7 @@ I am a huge lover of music, I have been playing the guitar for over 10+ years no
  <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/e60da1ce-3675-4eb4-899e-e2458a344349" height="100px" width="100px" />
 </a>
 <a href="https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ?si=fa3a4700acd8443c" target="_blank">
- <img sr="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/2d0e29da-c6d4-409a-b5aa-ce6ac371dadb" height="100px" width="100px" />
+ <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/2d0e29da-c6d4-409a-b5aa-ce6ac371dadb" height="100px" width="100px" />
 </a>
 <a href="https://open.spotify.com/track/5WMKS1iDfugyLhfibIlR51?si=4f32b38b7c324b31" target="_blank">
  <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/0b91c6f8-9719-44d6-a7a6-c94950103899" height="100px" width="100px" />
