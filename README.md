@@ -92,3 +92,7 @@ I also have a sweet collection of guitars:
 3. Aria ES335 Semi-Hollowbody
 4. Gretch Electromatic
 5. Aria Diamond
+
+Beyond my love for music and guitars, my love for cats goes far beyond that. I have had numerous cats throughout my life but I can safely say that my favourite cat is Mugatu, she was named after Mugatu from Zoolander.
+
+<img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/6b931d78-a869-4143-8771-658abe0e8098" width="400px" />
