@@ -54,3 +54,27 @@ I am a huge lover of music, I have been playing the guitar for over 10+ years no
 <a href="https://open.spotify.com/track/5gFoAVTN9YlM9uJCrFZtgl?si=75af2de6c0064f56" target="_blank">
  <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/ea5c7e82-f264-468c-993b-52d106173fdf" height="100px" width="100px" />
 </a>
+<a href="https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa?si=16b5d594e6a84c45" target="_blank">
+ <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/52e00381-86a5-4467-b332-a138beb0a317" height="100px" width="100px" />
+</a>
+<a href="https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM?si=79d93d3e29f840f1" target="_blank">
+ <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/1470b646-a649-43d9-a4ea-2f5e84b4c475" height="100px" width="100px" />
+</a>
+<a href="https://open.spotify.com/track/5PyjfIFYrV26ODWzzsbcit?si=f1764822f34b444f" target="_blank">
+ <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/623922d3-cd4f-401d-b43f-9b3229bc73e0" height="100px" width="100px" />
+</a>
+<a href="https://open.spotify.com/track/2CuUB5MbfRShtunR8g5hjR?si=4bc28e4f177747bc" target="_blank">
+ <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/7deaae20-f5d2-4ddb-b1bb-fd876adf218b" height="100px" width="100px" />
+</a>
+<a href="https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI?si=4ba04d2e01f54991" target="_blank">
+ <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/9a1ed11f-b48c-4766-87a3-b49ebcbda263" height="100px" width="100px" />
+</a>
+<a href="https://open.spotify.com/track/0RnxpSzxzwZgFQ0NahQr9K?si=e2c1dedfbc534bd5" target="_blank">
+ <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/e60da1ce-3675-4eb4-899e-e2458a344349" height="100px" width="100px" />
+</a>
+<a href="https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ?si=fa3a4700acd8443c" target="_blank">
+ <img sr="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/2d0e29da-c6d4-409a-b5aa-ce6ac371dadb" height="100px" width="100px" />
+</a>
+<a href="https://open.spotify.com/track/5WMKS1iDfugyLhfibIlR51?si=4f32b38b7c324b31" target="_blank">
+ <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/0b91c6f8-9719-44d6-a7a6-c94950103899" height="100px" width="100px" />
+</a>
