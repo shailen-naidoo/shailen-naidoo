@@ -84,15 +84,3 @@ I am a huge lover of music, I have been playing the guitar for over 10+ years no
 <a href="https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn?si=d1cbe9399d844c1f" target="_blank">
  <img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/19ddcd95-2583-48f8-b05d-2d78351c2629" height="100px" width="100px" />
 </a>
-
-I also have a sweet collection of guitars:
-
-1. Fender Stratocaster - Jimi Hendrix Signature Model
-2. Ibanez Les Paul Custom 1976 Model
-3. Aria ES335 Semi-Hollowbody
-4. Gretch Electromatic
-5. Aria Diamond
-
-Beyond my love for music and guitars, my love for cats goes far beyond that. I have had numerous cats throughout my life but I can safely say that my favourite cat is Mugatu, she was named after Mugatu from Zoolander.
-
-<img src="https://github.com/shailen-naidoo/shailen-naidoo/assets/26552540/6b931d78-a869-4143-8771-658abe0e8098" width="400px" />
