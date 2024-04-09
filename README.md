@@ -1,33 +1,13 @@
-### Aspiring Legal Professional with a Passion for Technology
+I'm a highly motivated senior-level JavaScript developer with a passion for building efficient and well-documented web applications. I'm seeking a role where I can leverage my experience to guide and mentor junior developers in a collaborative environment.
 
-I am a highly motivated and results-oriented JavaScript Developer with a strong interest in pursuing a career in law. Combining my technical expertise with my passion for legal principles and advocacy, I am eager to make a meaningful impact in the legal field.
+I have a proven track record of improving development processes. For example, by implementing TDD (Test-Driven Development), I was able to mitigate the amount of bugs in our application. I also believe clear documentation and communication are essential. I developed a bug-reporting process that streamlined issue resolution and reduced development turnaround time in general. I strongly believe that the best software engineers should aim to adhere to defensive programming principles as code should be seen as a blocker or weakness in the system.
 
-### Technical Expertise
+Here are some articles that I have written about the topic or my viewpoints:
 
-* Proficient in JavaScript.
-* Experience in developing and maintaining web applications.
-* Strong understanding of software design principles and best practices.
-* Ability to work independently and as part of a team.
+1. [The best software engineers write instead of code](https://dev.to/shailennaidoo/the-best-software-engineers-write-instead-of-code-1heg)
+2. [Treat the frontend as if it is dumb](https://dev.to/shailennaidoo/treat-the-frontend-as-if-it-is-dumb-4g5d)
+3. [Treat onboarding on a project or team as if you are invited to a five-star hotel](https://dev.to/shailennaidoo/treat-onboarding-on-a-project-or-team-as-if-you-are-invited-to-a-five-star-hotel-4lh0)
 
-### Legal Aspirations
+I'm proficient in Vue.js and possess a strong understanding of front-end architecture. I'm a strong advocate for effective communication and believe documentation is the cornerstone of successful software development.
 
-* Motivated to pursue a professorship in law.
-* Passionate about
-  * Intellectual property law
-  * Technology law
-  * Cybersecurity law
-  * Consumer law
-  * Labour law
-  * Property law
-  * Civil law
-  * Criminal law.
-* Eager to contribute to the legal community and protect the rights of individuals and businesses through projects such as [lawforidiots.org](https://lawforidiots.org)
-* Strong interpersonal and communication skills, with the ability to clearly articulate complex legal concepts
-
-### Seeking Opportunities
-
-I am actively seeking opportunities to connect with legal professionals, explore potential internships or shadowing experiences, and gain insights into the legal profession. I am also interested in networking with JavaScript Developers who have transitioned into law to learn from their experiences.
-
-### Contact Me
-
-I am eager to connect with individuals who can provide guidance and support as I navigate this career transition. Please feel free to connect with me on LinkedIn or email me at naidooshailen648@gmail.com, do not be afraid to share any issues that you may have with me, I am more than happy to address any of your concerns.
+An ideal role would allow me to work remotely and contribute to a positive and collaborative team culture. While a comprehensive benefits package is a plus, competitive compensation is most important.
