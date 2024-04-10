@@ -9,5 +9,3 @@ Here are some articles that I have written about the topic or my viewpoints:
 3. [Treat onboarding on a project or team as if you are invited to a five-star hotel](https://dev.to/shailennaidoo/treat-onboarding-on-a-project-or-team-as-if-you-are-invited-to-a-five-star-hotel-4lh0)
 
 I'm proficient in Vue.js and possess a strong understanding of front-end architecture. I'm a strong advocate for effective communication and believe documentation is the cornerstone of successful software development.
-
-An ideal role would allow me to work remotely and contribute to a positive and collaborative team culture. While a comprehensive benefits package is a plus, competitive compensation is most important.
