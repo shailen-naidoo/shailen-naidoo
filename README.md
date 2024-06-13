@@ -1,12 +1,1 @@
-I'm a highly motivated senior-level JavaScript developer with a passion for building efficient and well-documented web applications. I'm seeking a role where I can leverage my experience to guide and mentor junior developers in a collaborative environment.
-
-I have a proven track record of improving development processes. For example, by implementing TDD (Test-Driven Development), I was able to mitigate the amount of bugs in our application. I also believe clear documentation and communication are essential. I developed a bug-reporting process that streamlined issue resolution and reduced development turnaround time in general. I strongly believe that the best software engineers should aim to adhere to defensive programming principles as code should be seen as a blocker or weakness in the system.
-
-Here are some articles that I have written about the topic or my viewpoints:
-
-1. [My thoughts on software engineering](https://docs.google.com/document/d/14_JEPkAPx4bAb5KeKADbLirFIyP2YSHKUPsn8juDrgY/edit?usp=sharing)
-2. [The best software engineers write instead of code](https://dev.to/shailennaidoo/the-best-software-engineers-write-instead-of-code-1heg)
-3. [Treat the frontend as if it is dumb](https://dev.to/shailennaidoo/treat-the-frontend-as-if-it-is-dumb-4g5d)
-4. [Treat onboarding on a project or team as if you are invited to a five-star hotel](https://dev.to/shailennaidoo/treat-onboarding-on-a-project-or-team-as-if-you-are-invited-to-a-five-star-hotel-4lh0)
-
-I'm proficient in Vue.js and possess a strong understanding of front-end architecture. I'm a strong advocate for effective communication and believe documentation is the cornerstone of successful software development.
+Instead of building a website I moved everything over to a simple [Google Doc]([url](https://docs.google.com/document/d/13kbQ-MEfp8VC0KgwcpvvDJf-zbrf0Uj29-bUEFA7kMM/edit?usp=sharing))
